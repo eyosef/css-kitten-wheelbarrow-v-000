@@ -16,8 +16,8 @@
   left: 369px;
 }
 
-/* SOLVED Select the image inside the element with an id of basket (using its descendent relationship) */
-/*kitty 3*/
+/* Select the image inside the element with an id of basket (using its descendent relationship) */
+
 div div img {
   position: absolute;
   z-index: 5;
