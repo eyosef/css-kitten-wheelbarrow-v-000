@@ -1,4 +1,4 @@
-/*SOLVED Select the image with a class of kitty-1 */
+/*Select the image with a class of kitty-1 */
 
 .kitty-1 {
   position: absolute;
@@ -7,7 +7,7 @@
   left: 129px;
 }
 
-/*SOLVED Select the image with id of kitty-2 SOLVED*/
+/*Select the image with id of kitty-2 SOLVED*/
 
 #kitty-2 {
   position: absolute;
