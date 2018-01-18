@@ -39,6 +39,6 @@ div + img {
 a[alt="Kitty 5"] {
   position: absolute;
   z-index: 3;
-  top: 217px;
-  left: 223px;
+  top: 217px; /* 217px */
+  left: 150px; /* 223px */
 }
