@@ -18,7 +18,7 @@
 
 /* DOUBLE CHECK Select the image inside the element with an id of basket (using its descendent relationship) */
 /*kitty 3*/
-div div div img img img div {
+div div img  {
   position: absolute;
   z-index: 5;
   top: 291px;
