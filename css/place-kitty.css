@@ -36,7 +36,7 @@ div+div+img+img+img+div+div+img {
 
 /*WORK ON Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 
-a[] {
+a[alt="Kitty 5"] {
   position: absolute;
   z-index: 3;
   top: 217px; /* 217px */
