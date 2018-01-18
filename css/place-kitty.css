@@ -16,7 +16,7 @@
   left: 369px;
 }
 
-/* Select the image inside the element with an id of basket (using its descendent relationship) */
+/* DOUBLE CHECK Select the image inside the element with an id of basket (using its descendent relationship) */
 
 body div div div div {
   position: absolute;
